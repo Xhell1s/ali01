@@ -1,0 +1,39 @@
+h1{
+    width: 636px;
+    height: 116px;
+    box-sizing: border-box;
+    background-color: #311313;
+    color: white;
+    font-size: 64px;
+    text-align: center;
+    padding-top: 15px;
+    margin: 0 auto;
+}
+.box-ota{
+    width: 1000px;
+    height: 638px;
+    box-sizing: border-box;
+    background-color: black;
+    border: 10px solid red;
+    margin: 0 auto;
+    margin-top: 66px;
+}
+.box-bola{
+    width: 896px;
+    height: 259px;
+    background-color: #1FE8B7;
+    color: black;
+    box-sizing: border-box;
+    margin: 0 auto;
+    margin-top: 39px;
+    font-size: 24px;
+}
+p{
+    width: 817px;
+    height: 151px;
+    margin: 0 auto;
+    font-size: 24px;
+    padding-top: 54px;
+    font-weight: 700;
+    
+}
